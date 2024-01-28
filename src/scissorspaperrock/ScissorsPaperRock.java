@@ -1,6 +1,6 @@
 package scissorspaperrock;
 
-/*
+/**
     @author=Jesse Read
     @version=1.0.0
 */
