@@ -1,16 +1,15 @@
 package scissorspaperrock;
 
-/**
-    @author=Jesse Read
-    @version=1.0.0
-*/
-
-
 import java.util.Scanner;
 import java.util.Random;
 
 public class ScissorsPaperRock {
 
+    /**
+    *
+    * @author ${user}
+    */
+    
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         Random rand = new Random();
